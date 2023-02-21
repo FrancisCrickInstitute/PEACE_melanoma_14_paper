@@ -1,0 +1,4 @@
+"Acral" "#F7BFBE"
+"Cutaneous" "#80461B"
+"Mucosal" "#F5454C"
+"MUP" "#BEBEBE"

@@ -1,0 +1,154 @@
+Days_since_Dx	Site	Size	MonthsElapsed
+13	LU (lung left upper lobe)	183	0.427104722792608
+67	LU (lung left upper lobe)	80	2.20123203285421
+96	LU (lung left upper lobe)	127	3.15400410677618
+154	LU (lung left upper lobe)	50	5.05954825462012
+245	LU (lung left upper lobe)	53	8.04928131416838
+321	LU (lung left upper lobe)	73	10.5462012320329
+382	LU (lung left upper lobe)	70	12.5503080082136
+434	LU (lung left upper lobe)	74	14.258726899384
+496	LU (lung left upper lobe)	84	16.2956878850103
+560	LU (lung left upper lobe)	134	18.3983572895277
+619	LU (lung left upper lobe)	95	20.3367556468172
+676	LU (lung left upper lobe)	107	22.2094455852156
+745	LU (lung left upper lobe)	107	24.476386036961
+796	LU (lung left upper lobe)	95	26.1519507186858
+858	LU (lung left upper lobe)	83	28.1889117043121
+893	LU (lung left upper lobe)	71	29.3388090349076
+978	LU (lung left upper lobe)	117	32.1314168377823
+13	LU (lung right lower lobe)	12	0.427104722792608
+67	LU (lung right lower lobe)	6	2.20123203285421
+96	LU (lung right lower lobe)	6	3.15400410677618
+154	LU (lung right lower lobe)	5	5.05954825462012
+245	LU (lung right lower lobe)	5	8.04928131416838
+321	LU (lung right lower lobe)	5	10.5462012320329
+382	LU (lung right lower lobe)	6	12.5503080082136
+434	LU (lung right lower lobe)	5	14.258726899384
+496	LU (lung right lower lobe)	8	16.2956878850103
+560	LU (lung right lower lobe)	8	18.3983572895277
+619	LU (lung right lower lobe)	5	20.3367556468172
+676	LU (lung right lower lobe)	10	22.2094455852156
+745	LU (lung right lower lobe)	8	24.476386036961
+796	LU (lung right lower lobe)	6	26.1519507186858
+858	LU (lung right lower lobe)	8	28.1889117043121
+893	LU (lung right lower lobe)	9	29.3388090349076
+978	LU (lung right lower lobe)	9	32.1314168377823
+13	PC (lymph node pericardiac)	0	0.427104722792608
+67	PC (lymph node pericardiac)	0	2.20123203285421
+96	PC (lymph node pericardiac)	15	3.15400410677618
+154	PC (lymph node pericardiac)	5	5.05954825462012
+245	PC (lymph node pericardiac)	5	8.04928131416838
+321	PC (lymph node pericardiac)	43	10.5462012320329
+382	PC (lymph node pericardiac)	43	12.5503080082136
+434	PC (lymph node pericardiac)	5	14.258726899384
+496	PC (lymph node pericardiac)	5	16.2956878850103
+560	PC (lymph node pericardiac)	19	18.3983572895277
+619	PC (lymph node pericardiac)	5	20.3367556468172
+676	PC (lymph node pericardiac)	5	22.2094455852156
+745	PC (lymph node pericardiac)	5	24.476386036961
+796	PC (lymph node pericardiac)	5	26.1519507186858
+858	PC (lymph node pericardiac)	5	28.1889117043121
+893	PC (lymph node pericardiac)	5	29.3388090349076
+978	PC (lymph node pericardiac)	5	32.1314168377823
+13	ST (pleural left lower lobe)	0	0.427104722792608
+67	ST (pleural left lower lobe)	0	2.20123203285421
+96	ST (pleural left lower lobe)	0	3.15400410677618
+154	ST (pleural left lower lobe)	0	5.05954825462012
+245	ST (pleural left lower lobe)	0	8.04928131416838
+321	ST (pleural left lower lobe)	0	10.5462012320329
+382	ST (pleural left lower lobe)	67	12.5503080082136
+434	ST (pleural left lower lobe)	67	14.258726899384
+496	ST (pleural left lower lobe)	72	16.2956878850103
+560	ST (pleural left lower lobe)	75	18.3983572895277
+619	ST (pleural left lower lobe)	63	20.3367556468172
+676	ST (pleural left lower lobe)	61	22.2094455852156
+745	ST (pleural left lower lobe)	49	24.476386036961
+796	ST (pleural left lower lobe)	52	26.1519507186858
+858	ST (pleural left lower lobe)	52	28.1889117043121
+893	ST (pleural left lower lobe)	58	29.3388090349076
+978	ST (pleural left lower lobe)	60	32.1314168377823
+13	ST (lymph node mediastinal)	0	0.427104722792608
+67	ST (lymph node mediastinal)	0	2.20123203285421
+96	ST (lymph node mediastinal)	0	3.15400410677618
+154	ST (lymph node mediastinal)	0	5.05954825462012
+245	ST (lymph node mediastinal)	0	8.04928131416838
+321	ST (lymph node mediastinal)	0	10.5462012320329
+382	ST (lymph node mediastinal)	20	12.5503080082136
+434	ST (lymph node mediastinal)	20	14.258726899384
+496	ST (lymph node mediastinal)	20	16.2956878850103
+560	ST (lymph node mediastinal)	20	18.3983572895277
+619	ST (lymph node mediastinal)	20	20.3367556468172
+676	ST (lymph node mediastinal)	48	22.2094455852156
+745	ST (lymph node mediastinal)	40	24.476386036961
+796	ST (lymph node mediastinal)	37	26.1519507186858
+858	ST (lymph node mediastinal)	42	28.1889117043121
+893	ST (lymph node mediastinal)	40	29.3388090349076
+978	ST (lymph node mediastinal)	40	32.1314168377823
+13	ST (lymph node axilliary)	0	0.427104722792608
+67	ST (lymph node axilliary)	0	2.20123203285421
+96	ST (lymph node axilliary)	0	3.15400410677618
+154	ST (lymph node axilliary)	0	5.05954825462012
+245	ST (lymph node axilliary)	0	8.04928131416838
+321	ST (lymph node axilliary)	0	10.5462012320329
+382	ST (lymph node axilliary)	0	12.5503080082136
+434	ST (lymph node axilliary)	0	14.258726899384
+496	ST (lymph node axilliary)	0	16.2956878850103
+560	ST (lymph node axilliary)	0	18.3983572895277
+619	ST (lymph node axilliary)	0	20.3367556468172
+676	ST (lymph node axilliary)	22	22.2094455852156
+745	ST (lymph node axilliary)	23	24.476386036961
+796	ST (lymph node axilliary)	23	26.1519507186858
+858	ST (lymph node axilliary)	20	28.1889117043121
+893	ST (lymph node axilliary)	20	29.3388090349076
+978	ST (lymph node axilliary)	30	32.1314168377823
+13	BR (brain left frontal lobe)	0	0.427104722792608
+67	BR (brain left frontal lobe)	0	2.20123203285421
+96	BR (brain left frontal lobe)	0	3.15400410677618
+154	BR (brain left frontal lobe)	0	5.05954825462012
+245	BR (brain left frontal lobe)	0	8.04928131416838
+321	BR (brain left frontal lobe)	0	10.5462012320329
+382	BR (brain left frontal lobe)	0	12.5503080082136
+434	BR (brain left frontal lobe)	0	14.258726899384
+496	BR (brain left frontal lobe)	0	16.2956878850103
+560	BR (brain left frontal lobe)	0	18.3983572895277
+619	BR (brain left frontal lobe)	0	20.3367556468172
+676	BR (brain left frontal lobe)	0	22.2094455852156
+745	BR (brain left frontal lobe)	0	24.476386036961
+796	BR (brain left frontal lobe)	0	26.1519507186858
+858	BR (brain left frontal lobe)	0	28.1889117043121
+893	BR (brain left frontal lobe)	8	29.3388090349076
+978	BR (brain left frontal lobe)	17	32.1314168377823
+13	ST (subcutaneous chest wall)	0	0.427104722792608
+67	ST (subcutaneous chest wall)	0	2.20123203285421
+96	ST (subcutaneous chest wall)	0	3.15400410677618
+154	ST (subcutaneous chest wall)	0	5.05954825462012
+245	ST (subcutaneous chest wall)	0	8.04928131416838
+321	ST (subcutaneous chest wall)	0	10.5462012320329
+382	ST (subcutaneous chest wall)	0	12.5503080082136
+434	ST (subcutaneous chest wall)	0	14.258726899384
+496	ST (subcutaneous chest wall)	0	16.2956878850103
+560	ST (subcutaneous chest wall)	0	18.3983572895277
+619	ST (subcutaneous chest wall)	0	20.3367556468172
+676	ST (subcutaneous chest wall)	0	22.2094455852156
+745	ST (subcutaneous chest wall)	0	24.476386036961
+796	ST (subcutaneous chest wall)	0	26.1519507186858
+858	ST (subcutaneous chest wall)	0	28.1889117043121
+893	ST (subcutaneous chest wall)	0	29.3388090349076
+978	ST (subcutaneous chest wall)	51	32.1314168377823
+13	LI (liver)	0	0.427104722792608
+67	LI (liver)	0	2.20123203285421
+96	LI (liver)	0	3.15400410677618
+154	LI (liver)	0	5.05954825462012
+245	LI (liver)	0	8.04928131416838
+321	LI (liver)	0	10.5462012320329
+382	LI (liver)	0	12.5503080082136
+434	LI (liver)	0	14.258726899384
+496	LI (liver)	0	16.2956878850103
+560	LI (liver)	0	18.3983572895277
+619	LI (liver)	0	20.3367556468172
+676	LI (liver)	0	22.2094455852156
+745	LI (liver)	0	24.476386036961
+796	LI (liver)	0	26.1519507186858
+858	LI (liver)	0	28.1889117043121
+893	LI (liver)	0	29.3388090349076
+978	LI (liver)	30	32.1314168377823

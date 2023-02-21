@@ -1,0 +1,7 @@
+Event	Treatment	Start_inMonthsSinceDx	End_inMonthsSinceDx	Best.response
+Treatment 1	PD-1 i + CTLA-4 i	0.55890411	3.156164384	PR
+Treatment 2	BRAF i + MEK i	3.189041096	10.55737705	PR
+Treatment 3	PD-1 i + CTLA-4 i	10.75409836	18.39416058	PR
+Treatment 4	BRAF i + MEK i	18.59124088	22.36861314	PR
+Treatment 5	Chemotherapy	22.69708029	29.10218978	SD
+Treatment 6	PD-1 i	30.35728953	31.73716632	PD

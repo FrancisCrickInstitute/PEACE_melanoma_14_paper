@@ -1,0 +1,7 @@
+Patient	Subtype	Days_Dx_to_brain	Days_IV_to_brain	normDist	Type	Notes
+CRUKP5107	MUP	893	893	1.46478828349725	Leptomeningeal	ok
+CRUKP1614	MUP	759	759	1.08366355722637	Leptomeningeal	Had_br_resection
+CRUKP9097	Cutaneous	564	23	-1.75996166006583	Brain	ok
+CRUKP1047	Acral	7478	292	0.458862658553678	Brain	ok
+CRUKP1599	Cutaneous	485	224	0.268011327437132	Brain	ok
+CRUKP9097	Cutaneous	974	433	0.701287404777189	Leptomeningeal	ok
